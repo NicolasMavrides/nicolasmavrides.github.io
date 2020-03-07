@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /files # Block the /files directory
+Disallow: *.pdf  # Block pdf files
